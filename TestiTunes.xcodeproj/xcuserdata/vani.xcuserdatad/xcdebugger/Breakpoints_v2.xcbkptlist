@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5A2F6EA5-AFD7-45F0-BCB9-B4156C162682"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "34476530-5A0E-4596-9F77-4CA08C24532F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestiTunes/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "getTopAlbums()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "34476530-5A0E-4596-9F77-4CA08C24532F - 608447a414543249"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;TestiTunes.APIResult&gt;) -&gt; () in TestiTunes.HomeVC.getTopAlbums() -&gt; ()"
+                  moduleName = "TestiTunes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vani/Desktop/Data-%20April%2024/Sample%20Projects/TestiTunes/TestiTunes/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "258">
+               </Location>
+               <Location
+                  uuid = "34476530-5A0E-4596-9F77-4CA08C24532F - a541a18e5846f41"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;TestiTunes.APIResult&gt;) -&gt; () in TestiTunes.HomeVC.getTopAlbums() -&gt; ()"
+                  moduleName = "TestiTunes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vani/Desktop/Data-%20April%2024/Sample%20Projects/TestiTunes/TestiTunes/HomeVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "49"
+                  endingLineNumber = "49"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23C2A8E4-C765-4D0C-86D4-B215267CC1ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestiTunes/HomeVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "147"
+            endingLineNumber = "147"
+            landmarkName = "readResponse(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
